@@ -10,5 +10,5 @@ By default, the root_exec.c module will copy /bin/sh to tmp, and make it suid so
 
 Credits:
 
-- deepseek (after a long battle with various hallucinations and dire warniengs) helped me write this
+- deepseek (after a long battle with various hallucinations and dire warnings) helped me write this
 - it was built for the challenge 'Avengers Hub' in [TryHackMe](https://tryhackme.com)'s Hackfinity CTF, March 2025
